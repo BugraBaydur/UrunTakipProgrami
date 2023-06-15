@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29519.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UrunTakipProgrami", "UrunTakipProgrami\UrunTakipProgrami.csproj", "{E953C00C-B0EF-4F17-BCB3-0087EB6DC872}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataAccesLayer", "DataAccesLayer\DataAccesLayer.csproj", "{05A79791-D7C4-4F8B-B740-8FEE63712943}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Editor", "Editor\Editor.vdproj", "{5B93838C-F3C1-485C-ACD1-13AD2A6B8E4A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E953C00C-B0EF-4F17-BCB3-0087EB6DC872}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E953C00C-B0EF-4F17-BCB3-0087EB6DC872}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E953C00C-B0EF-4F17-BCB3-0087EB6DC872}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E953C00C-B0EF-4F17-BCB3-0087EB6DC872}.Release|Any CPU.Build.0 = Release|Any CPU
+		{05A79791-D7C4-4F8B-B740-8FEE63712943}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05A79791-D7C4-4F8B-B740-8FEE63712943}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05A79791-D7C4-4F8B-B740-8FEE63712943}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{05A79791-D7C4-4F8B-B740-8FEE63712943}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5B93838C-F3C1-485C-ACD1-13AD2A6B8E4A}.Debug|Any CPU.ActiveCfg = Debug
+		{5B93838C-F3C1-485C-ACD1-13AD2A6B8E4A}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C250BC88-00C8-4DA4-90CB-ED24E9046941}
+	EndGlobalSection
+EndGlobal

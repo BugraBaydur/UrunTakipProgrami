@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Kullanicilar>
+  <Kullanici>
+    <KullaniciAdi>ahmet</KullaniciAdi>
+    <Sifre>1234</Sifre>
+    <Ad>ahmet</Ad>
+    <SoyAd>mehmet</SoyAd>
+    <SorumluKodu>3</SorumluKodu>
+    <Yetki>Yetkili</Yetki>
+  </Kullanici>
+  <Kullanici>
+    <KullaniciAdi>artt</KullaniciAdi>
+    <Sifre>artt</Sifre>
+    <Ad>assad</Ad>
+    <SoyAd>ads</SoyAd>
+    <SorumluKodu>4</SorumluKodu>
+    <Yetki>Yetkili</Yetki>
+  </Kullanici>
+  <Kullanici>
+    <KullaniciAdi>GıllıZaro</KullaniciAdi>
+    <Sifre>zaro6348</Sifre>
+    <Ad>Zerrin</Ad>
+    <SoyAd>Baydur</SoyAd>
+    <SorumluKodu>2</SorumluKodu>
+    <Yetki>Yetkili</Yetki>
+  </Kullanici>
+  <Kullanici>
+    <KullaniciAdi>Nazmi61</KullaniciAdi>
+    <Sifre>1234</Sifre>
+    <Ad>Nazmi</Ad>
+    <SoyAd>Baydur</SoyAd>
+    <SorumluKodu>1</SorumluKodu>
+    <Yetki>Yetkili</Yetki>
+  </Kullanici>
+  <Kullanici>
+    <KullaniciAdi>rEiS</KullaniciAdi>
+    <Sifre>123456</Sifre>
+    <Ad>BURAK</Ad>
+    <SoyAd>BAYDUR</SoyAd>
+    <SorumluKodu>5</SorumluKodu>
+    <Yetki>Yetkili</Yetki>
+  </Kullanici>
+</Kullanicilar>
